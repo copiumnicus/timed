@@ -2,7 +2,7 @@
 name = "timed"
 version = "0.1.0"
 edition = "2021"
-description = "measure code speed, "
+description = "measure infra speed, compare durations"
 
 [dependencies]
 tracing = "0.1.37"
